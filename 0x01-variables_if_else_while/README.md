@@ -10,4 +10,7 @@ Note: You can only use the "putchar" function (every other function (printf, put
 Task 3: A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 Note: You can only use the "putchar" function (every other function (printf, puts, etc… is forbidden). All your code should be in the main function. You can only use "putchar" three times in your code.
 
-Task 4: 
+Task 4: A program that prints the alphabet in lowercase, followed by a new line.
+Note: Print all the letters except q and e. You can only use the "putchar" function (every other function (printf, puts, etc… is forbidden). All your code should be in the main function. You can only use "putchar" twice in your code.
+
+Task 5: 
