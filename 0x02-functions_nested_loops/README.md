@@ -28,4 +28,9 @@ TASK 9: A function that prints the 9 times table, starting with 0.
 
 TASK 10: A function that adds two integers and returns the result.
 
+TASK 11: A function that prints all natural numbers from n to 98, followed by a new line.
+Note: Numbers must be separated by a comma, followed by a space. Numbers should be printed in order. 
+The first printed number should be the number passed to your function. The last printed number should be 98. You are allowed to use the standard library.
+
+TASK 12: 
 
