@@ -9,3 +9,7 @@ Note: You can only use putchar twice in your code.
 TASK 2: A function that prints 10 times the alphabet, in lowercase, followed by a new line.
 Note: You can only use putchar twice in your code.
 
+TASK 3: A function that checks for lowercase character.
+Note: Returns 1 if c is lowercase. Returns 0 otherwise.
+
+TASK 4: 
