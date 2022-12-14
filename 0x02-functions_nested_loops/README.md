@@ -15,4 +15,7 @@ Note: Returns 1 if c is lowercase. Returns 0 otherwise.
 TASK 4: A function that checks for alphabetic character.
 Note: Returns 1 if c is a letter, lowercase or uppercase. Returns 0 otherwise.
 
-TASK 5: 
+TASK 5: A function that prints the sign of a number.
+Note: Returns 1 and prints + if n is greater than zero. Returns 0 and prints 0 if n is zero. Returns -1 and prints - if n is less than zero.
+
+TASK 6: 
