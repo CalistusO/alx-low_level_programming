@@ -29,4 +29,11 @@ Note: You can only use (putchar) function to print. Where size is the size of th
 TASK 9: The “Fizz-Buzz test” is an interview question designed to help filter out the 99.5% of programming job candidates who can’t seem to program their way out of a wet paper bag. 
 This is a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three, print Fizz instead of the number and for the multiples of five, print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
-TASK 10: 
+TASK 10: A function that prints a triangle, followed by a new line.
+Note: You can only use (putchar) function to print. Where size is the size of the triangle. If size is 0 or less, the function should print only a new line. Use the character # to print the triangle.
+
+TASK 11: The prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.This is a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+Note: You are allowed to use the standard library.
+
+TASK 12: A function that prints an integer.
+Note: You can only use (putchar) function to print. You are not allowed to use "long". You are not allowed to use arrays or pointers. You are not allowed to hard-code special values.
