@@ -20,11 +20,10 @@ Note: The function should print the second half of the string. If the number of 
 TASK 8: A function that prints n elements of an array of integers, followed by a new line.
 Note: n is the number of elements of the array to be printed. Numbers must be separated by comma, followed by a space. The numbers should be displayed in the same order as they are stored in the array. You are allowed to use printf.
 
-TASK 9: Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+TASK 9: A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest. 
+Note: Return value: the pointer to dest.
 
-    Return value: the pointer to dest
-
-10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+TASK 10: Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 
 Write a function that convert a string to an integer.
 
