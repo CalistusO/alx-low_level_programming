@@ -1,13 +1,10 @@
 ALX TASKS FOR C - POINTERS, ARRAYS AND STRINGS
 
-TASK 0: A function that takes a pointer to an int as parameter and updates the value it points to 98. 
-TASK 1: Don't swap horses in crossing a stream
+TASK 0: A function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
-Write a function that swaps the values of two integers.
+TASK 1: A function that swaps the values of two integers.
 
-    Prototype: void swap_int(int *a, int *b);
-
-2. This report, by its very length, defends itself against the risk of being read
+TASK 2: This report, by its very length, defends itself against the risk of being read
 
 Write a function that returns the length of a string.
 
