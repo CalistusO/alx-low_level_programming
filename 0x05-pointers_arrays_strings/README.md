@@ -17,21 +17,10 @@ TASK 6: A function that prints every other character of a string, starting with 
 TASK 7: A function that prints half of a string, followed by a new line. 
 Note: The function should print the second half of the string. If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2.
 
-TASK 8: Arrays are not pointers
+TASK 8: A function that prints n elements of an array of integers, followed by a new line.
+Note: n is the number of elements of the array to be printed. Numbers must be separated by comma, followed by a space. The numbers should be displayed in the same order as they are stored in the array. You are allowed to use printf.
 
-Write a function that prints n elements of an array of integers, followed by a new line.
-
-    Prototype: void print_array(int *a, int n);
-    where n is the number of elements of the array to be printed
-    Numbers must be separated by comma, followed by a space
-    The numbers should be displayed in the same order as they are stored in the array
-    You are allowed to use printf
-
-9. strcpy
-
-    Prototype: char *_strcpy(char *dest, char *src);
-
-Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+TASK 9: Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
     Return value: the pointer to dest
 
