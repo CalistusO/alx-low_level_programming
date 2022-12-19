@@ -14,15 +14,10 @@ TASK 5: A function that reverses a string.
 
 TASK 6: A function that prints every other character of a string, starting with the first character, followed by a new line.
 
-TASK 7: Winning is only half of it. Having fun is the other half
+TASK 7: A function that prints half of a string, followed by a new line. 
+Note: The function should print the second half of the string. If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2.
 
-Write a function that prints half of a string, followed by a new line.
-
-    Prototype: void puts_half(char *str);
-    The function should print the second half of the string
-    If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2
-
-8. Arrays are not pointers
+TASK 8: Arrays are not pointers
 
 Write a function that prints n elements of an array of integers, followed by a new line.
 
