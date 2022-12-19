@@ -12,13 +12,9 @@ TASK 4: A function that prints a string, in reverse, followed by a new line.
 
 TASK 5: A function that reverses a string.
 
-TASK 6: Half the lies they tell about me aren't true
+TASK 6: A function that prints every other character of a string, starting with the first character, followed by a new line.
 
-Write a function that prints every other character of a string, starting with the first character, followed by a new line.
-
-    Prototype: void puts2(char *str);
-
-7. Winning is only half of it. Having fun is the other half
+TASK 7: Winning is only half of it. Having fun is the other half
 
 Write a function that prints half of a string, followed by a new line.
 
