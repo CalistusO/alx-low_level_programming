@@ -10,13 +10,9 @@ TASK 3: A function that prints a string, followed by a new line, to stdout.
 
 TASK 4: A function that prints a string, in reverse, followed by a new line.
 
-TASK 5: A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+TASK 5: A function that reverses a string.
 
-Write a function that reverses a string.
-
-    Prototype: void rev_string(char *s);
-
-6. Half the lies they tell about me aren't true
+TASK 6: Half the lies they tell about me aren't true
 
 Write a function that prints every other character of a string, starting with the first character, followed by a new line.
 
