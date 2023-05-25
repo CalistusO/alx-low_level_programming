@@ -1,48 +1,92 @@
-ALX TASKS FOR C - FUNCTIONS, NESTED LOOPS
+Alx Tasks for C - Functions, nested loops  
 
-TASK 0: A program that prints "putchar", followed by a new line.
-Note: The program should return 0.
+**Task 0: 0-putchar.c**  
+Write a program that prints putchar, followed by a new line.  
+The program should return 0  
 
-TASK 1: A function that prints the alphabet, in lowercase, followed by a new line.
-Note: You can only use putchar twice in your code.
+**Task 1: 1-alphabet.c**  
+Write a function that prints the alphabet, in lowercase, followed by a new line.  
+Prototype: void print_alphabet(void);  
+You can only use putchar twice in your code.  
 
-TASK 2: A function that prints 10 times the alphabet, in lowercase, followed by a new line.
-Note: You can only use putchar twice in your code.
+**Task 2: 2-print-alphabetx10.c**  
+Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.  
+Prototype: void print_alphabet_x10(void);  
+You can only use putchar twice in your code.  
 
-TASK 3: A function that checks for lowercase character.
-Note: Returns 1 if c is lowercase. Returns 0 otherwise.
+**Task 3: 3-islower.c**  
+Write a function that checks for lowercase character.  
+Prototype: int -islower(int c);  
+Returns 1 if c is lowercase  
+Returns 0 otherwise  
 
-TASK 4: A function that checks for alphabetic character.
-Note: Returns 1 if c is a letter, lowercase or uppercase. Returns 0 otherwise.
+**Task 4: 4-isalpha.c**  
+Write a function that checks for alphabetic character.  
+Prototype: int -isalpha(int c);  
+Returns 1 if c is a letter, lowercase or uppercase.  
+Returns 0 otherwise  
 
-TASK 5: A function that prints the sign of a number.
-Note: Returns 1 and prints + if n is greater than zero. Returns 0 and prints 0 if n is zero. Returns -1 and prints - if n is less than zero.
+**Task 5: 5-sign.c**  
+Write a function that prints the sign of a number.  
+Prototype: int print_sign(int n);  
+Returns 1 and prints + if n is greater than zero  
+Returns 0 and prints 0 if n is zero  
+Returns -1 and prints - if n is less than zero  
 
-TASK 6: A function that computes the absolute value of an integer.
+**Task 6: 6-abs.c**  
+Write a function that computes the absolute value of an integer.  
+Prototype: int -abs(int);  
 
-TASK 7: A function that prints the last digit of a number.
+**Task 7: 7-printlastdigit.c**  
+Write a function that prints the last digit of a number.  
+Prototype: int print_last_digit(int);  
+Returns the value of the last digit  
 
-TASK 8: A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+**Task 8: 8-24hours.c**  
+Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.  
+Prototype: void jack_bauer(void);  
 
-TASK 9: A function that prints the 9 times table, starting with 0.
+**Task 9: 9-timestable.c**  
+Write a function that prints the 9 times table, starting with 0.  
+Prototype: void times_table(void);  
 
-TASK 10: A function that adds two integers and returns the result.
+**Task 10: 10-add.c**  
+Write a function that adds two integers and returns the result.  
+Prototype: int add(int, int);  
 
-TASK 11: A function that prints all natural numbers from n to 98, followed by a new line.
-Note: Numbers must be separated by a comma, followed by a space. Numbers should be printed in order. 
-The first printed number should be the number passed to your function. The last printed number should be 98. You are allowed to use the standard library.
+**Task 11: 11-printto98.c**  
+Write a function that prints all natural numbers from n to 98, followed by a new line.  
+Prototype: void print_to_98(int n);  
+Numbers must be separated by a comma, followed by a space  
+Numbers should be printed in order  
+The first printed number should be the number passed to your function  
+The last printed number should be 98  
+You are allowed to use the standard library  
 
-TASK 12: A function that prints the n times table, starting with 0.
-Note: If n is greater than 15 or less than 0 the function should not print anything.
+**Task 12: 100-timestable.c**  
+Write a function that prints the n times table, starting with 0.  
+Prototype: void print_times_table(int n);  
+If n is greater than 15 or less than 0 the function should not print anything  
 
-TASK 13: A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
-Note: You are allowed to use the standard library.
+**Task 13: 101-natural.c**  
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  
+Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.  
+You are allowed to use the standard library  
 
-TASK 14: A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-Note: The numbers must be separated by comma, followed by a space. You are allowed to use the standard library.
+**Task 14: 102-fibonacci.c**  
+In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A  
+Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.  
+The numbers must be separated by comma, followed by a space ,   
+You are allowed to use the standard library  
 
-TASK 15: Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, this is a program that finds and prints the sum of the even-valued terms, followed by a new line.
-Note: You are allowed to use the standard library.
+**Task 15: 103-fibonacci.c**  
+Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, write a program that finds and prints the sum of the even-valued terms, followed by a new line.  
+You are allowed to use the standard library  
 
-TASK 16: A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-Note: The numbers should be separated by comma, followed by a space. You are allowed to use the standard library. You are not allowed to use any other library (You can’t use GMP etc…). You are not allowed to use "long long", "malloc", pointers, arrays/tables, or structures. You are not allowed to hard code any Fibonacci number (except for 1 and 2).
+**Task 16: 104-fibonacci.c**  
+Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.  
+The numbers should be separated by comma, followed by a space ,  
+You are allowed to use the standard library  
+You are not allowed to use any other library (You can't use GMP etc)  
+You are not allowed to use long long, malloc, pointers, arrays/tables, or structures  
+You are not allowed to hard code any Fibonacci number (except for 1 and 2)
