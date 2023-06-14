@@ -1,1 +1,1 @@
-Alx tasks for C programming
+Repository for Alx tasks in C programming
